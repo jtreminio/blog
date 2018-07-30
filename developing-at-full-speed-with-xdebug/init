@@ -23,4 +23,6 @@ fi
 
 docker-compose up -d --build
 
+echo "Now open http://dev_xdebug.localhost/"
+
 exit 0
